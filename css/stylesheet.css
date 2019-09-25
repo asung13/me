@@ -8,6 +8,7 @@ body {
 .container {
     width: 1200px;
     margin: 0 auto; 
+    background-color: white;
     /* to center, define a specific width and margin of 0 auto */
 }
 
